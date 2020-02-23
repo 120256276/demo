@@ -16,5 +16,6 @@ public class ClientService {
 	public void InsertInfo(ClentInfo clentInfo){
 		
 		clentInfoMapper.insertSelective(clentInfo);
+		
 	}
 }
