@@ -170,6 +170,9 @@
 			<div class="col-md-6" id="page_nav_area">
 				
 			</div>	
+			<div class="col-md-6" id="page_nav_area">
+				<a rel="nofollow" href="http://www.beian.miit.gov.cn" target="_blank">黑ICP备19007259</a>
+			</div>	
 		</div>
 	</div>
 	<script type="text/javascript">
